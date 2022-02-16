@@ -1,5 +1,8 @@
 ### Hi there 👋
-📫 How to reach me: https://h-2020.github.io/CV/
+📫 How to reach me:
+
+  Visit my Cv on Gitgub:https://h-2020.github.io/CV/
+  Visit my Linkedin:https://www.linkedin.com/in/hilal-demir-be/
 <!--
 **H-2020/H-2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
