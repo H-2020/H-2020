@@ -1,7 +1,7 @@
 ### Hi there 👋
 📫 How to reach me:
 
-  Visit my Cv on Gitgub: https://h-2020.github.io/CV/
+  Visit my Cv on Github: https://h-2020.github.io/CV/
   
   Visit my Linkedin: https://www.linkedin.com/in/hilal-demir-be/
 <!--
