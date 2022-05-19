@@ -1,5 +1,5 @@
-### Hi! 👋 I'm Hilal
-### I'm a Java Developer
+### Hi! 👋 I'm Hilal.
+### I'm a Java Developer.
 📫 How to reach me:
 
   Visit my Portfolio on Github:https://h-2020.github.io/Portfolio/
